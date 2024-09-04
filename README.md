@@ -38,7 +38,8 @@ The "Pivot Table" sheet features various pivot tables derived from the cleaned d
 
 # Coffee Sales Dashboard Analysis
 
-![Coffee Sales Dashboard](./path_to_image/Screenshot_2024-09-04_201407.png)
+![Coffe Sales Dashboard](https://github.com/user-attachments/assets/9cb14645-2594-4a4a-9683-4250a3448c9c)
+
 
 ## Overview
 
