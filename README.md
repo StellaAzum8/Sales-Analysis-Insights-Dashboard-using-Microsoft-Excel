@@ -35,9 +35,6 @@ The "Pivot Table" sheet features various pivot tables derived from the cleaned d
 - **product performance:** A pivot table detailing the performance of each product over the years.
 
 --- 
-Here's a detailed write-up in markdown language for your GitHub README:
-
----
 
 # Coffee Sales Dashboard Analysis
 
