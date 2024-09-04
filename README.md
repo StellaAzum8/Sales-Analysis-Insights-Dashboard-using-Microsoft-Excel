@@ -28,12 +28,11 @@ The "Cleaned Data" sheet holds the processed and cleaned sales data, now ready f
 **Description:**  
 The "Pivot Table" sheet features various pivot tables derived from the cleaned data. These tables provide summarized views of the sales data, organized by different dimensions such as product type, customers name, country and time period.
 
+**Key Features**
+sales by country: A pivot table showing total sales and profit for each country
+Top customers: A pivot table summarizing the purchases made by the top 5 customers
+Total sales over time: A pivot table displaying sales trends over each month, enabling analysis of seasonal patterns
+product performance: A pivot table detailing the performance of each product over the years
 
-**Key Features:**
-
-*Sales by country: A pivot table showing total sales and profit for each country.
-*Top customers: A pivot table summarizing the purchases make by the top 5 customers.
-*Total sales over time: A pivot table displaying sales trends over each month, enabling analysis of seasonal patterns.
-*Product Performance: A pivot table detailing the performance of each product over the years.
 --- 
 
